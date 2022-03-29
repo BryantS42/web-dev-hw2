@@ -34,8 +34,7 @@ console.log(rows)
 }
 
 const Table = (props) => {
-  {console.log(props)
-    /*TODO - return <table> component, TableHeader and TableBody  and pass props!*/
+  {
     return (
       <table>
         <TableHeader/>
